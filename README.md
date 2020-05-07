@@ -5,4 +5,4 @@ created a master repository
 then created a branch.
 then edited the text.
 and then saving the changes.
-Thanks for changes. Ww will merge to master and see the changes.
+Thanks for changes. We will merge to master and see the changes.
